@@ -4,13 +4,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.alibaba</groupId>
     <artifactId>easyexcel</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.4-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>easyexcel</name>
     <description>easyexcel is a excel handle tools written in Java</description>
 
     <url>https://github.com/alibaba/easyexcel</url>
     <inceptionYear>2018</inceptionYear>
+
 
     <properties>
         <!--<gpg.skip>true</gpg.skip>-->
